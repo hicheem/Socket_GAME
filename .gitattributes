@@ -1,0 +1,2 @@
+*.java linguist-language=Java
+*.c linguist-language=C
